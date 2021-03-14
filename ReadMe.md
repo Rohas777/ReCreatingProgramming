@@ -8,10 +8,10 @@
 
 | Практические | Лабораторные |
 |--------------|--------------|
-| Практическая 01 - [[С++]](.Practice/01/C++/FirstEx/FirstEx/FirstEx.cpp) [[Python]](./Practice/01/Python/01.py) |  [Лабораторная 01](./Labs/01/README.md) |
-| Практическая 02 - [[С++]](.Practice/02/C++/SecondEx/SecondEx/SecondEx.cpp) [[Python]](./Practice/02/Python/02.py) |  [Лабораторная 02](./Labs/02/README.md) |
-| Практическая 03 - [[С++]](.Practice/03/C++/ThirdEx/ThirdEx/ThirdEx.cpp) [[Python]](./Practice/03/Python/03.py) |  [Лабораторная 03](./Labs/03/README.md) |
-| Практическая 04 - [[С++]](.Practice/04/C++/FourthEx/FourthEx/FourthEx.cpp) [[Python]](./Practice/04/Python/04.py) |  [Лабораторная 04](./Labs/04/README.md) |
+| Практическая 01 - [[С++]](.Practice/01/C++/FirstEx/FirstEx/FirstEx.cpp) [[Python]](./Practice/01/Python/01.py) |  [Лабораторная 01](./Lab/Lab1/) |
+| Практическая 02 - [[С++]](.Practice/02/C++/SecondEx/SecondEx/SecondEx.cpp) [[Python]](./Practice/02/Python/02.py) |  [Лабораторная 02](./Lab/Lab2/) |
+| Практическая 03 - [[С++]](.Practice/03/C++/ThirdEx/ThirdEx/ThirdEx.cpp) [[Python]](./Practice/03/Python/03.py) |  [Лабораторная 03](./Lab/Lab3/) |
+| Практическая 04 - [[С++]](.Practice/04/C++/FourthEx/FourthEx/FourthEx.cpp) [[Python]](./Practice/04/Python/04.py) |  [Лабораторная 04](./Lab/Lab4/) |
 | Практическая 05 - [[С++]](.Practice/05/C++/FifthEx/FifthEx/FifthEx.cpp) [[Python]](./Practice/05/Python/05.py) | |
 | Практическая 06 - [[С++]](.Practice/06/C++/SixthEx/SixthEx/SixthEx.cpp) [[Python]](./Practice/06/Python/06.py) | |
 | Практическая 07 - [[С++]](.Practice/07/C++/SeventhEx/SeventhEx/SeventhEx.cpp) [[Python]](./Practice/07/Python/07.py) | |
