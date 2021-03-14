@@ -32,7 +32,7 @@
 
 <p align="center">
 <img src="images/1.png"><br>
-Рис. 1. Дизайнер Qt Creator 
+Рис. 1. Замена форм в Qt Creator 
 </p>
 
 
